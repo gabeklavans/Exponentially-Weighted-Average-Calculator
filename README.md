@@ -1,4 +1,4 @@
-# Exponentially-Weighted-Average-Calculator
+# Exponentially Weighted Average Calculator
 
 Intended to be used with args in command line.
 
